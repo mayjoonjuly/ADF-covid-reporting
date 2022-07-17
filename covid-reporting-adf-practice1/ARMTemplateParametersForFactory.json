@@ -14,6 +14,9 @@
 		"ls_dls_covidreportingdl_properties_typeProperties_url": {
 			"value": "https://covidreportingdlnew1.dfs.core.windows.net/"
 		},
+		"ls_http_opendata_ecdc_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/"
+		},
 		"tr_ingest_population_data_properties_typeProperties_scope": {
 			"value": "/subscriptions/a7580ce1-212f-4b6b-8fdc-53dc47493b03/resourceGroups/covid-reporting-rg/providers/Microsoft.Storage/storageAccounts/covidreportingsanew1"
 		}
